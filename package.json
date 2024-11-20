@@ -1,0 +1,30 @@
+{
+  "name": "enquiry-management-system",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "nodemon": "src/index.js"
+  },
+  "keywords": [
+    "enquiry",
+    "enquiry-management",
+    "query",
+    "query-management",
+    "mysql",
+    "nodejs",
+    "express"
+  ],
+  "author": "Dhiraj Arya",
+  "license": "ISC",
+  "description": "Enquiry Management System in NodeJS",
+  "devDependencies": {
+    "nodemon": "^3.1.7",
+    "prettier": "^3.3.3"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1"
+  }
+}
